@@ -1,1 +1,1 @@
-console.log('My own git version1')
+console.log('My own git version2')
